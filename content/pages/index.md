@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boostyour time to production
+      text: پزشکی دیجی
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
