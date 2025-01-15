@@ -7,6 +7,9 @@ sections:
       text: پزشکی دیجیتال
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: آینده ای نوین
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
