@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: پزشکی دیجی
+      text: پزشکی دیجیتال
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
