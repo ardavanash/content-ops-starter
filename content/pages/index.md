@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: پزشکی دیجیتال
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
       styles:
         self:
